@@ -1,0 +1,15 @@
+City,State,Country,Weather,Geoposoition,Season,WindSpeed (Km/h)
+Vancouver,Washington,Canada,Snow,Seashore,Rainy,18
+Portland,Oregon,United States,Thunder,Plain,Autumn,14
+San Francisco,California,United States,fog,Seashore,Autumn,13
+Seattle,Washington,United States,Snow,Seashore,Autumn,13
+Pachuca,Hidalgo,Mexico,fog,Central,Rainy,19
+San Diego,California,United States,Cloudy,Desert,Autumn,16
+Toronto,Ontario,Canada,fog,Hillstation,Rainy,20
+Philadelphia,Pennsylvania,United States,fog,Mountain ,Autumn,12
+Montreal,Quebec,Canada,Windy,Hillstation,Rainy,16
+Boston,Massachusetts,United States,fog,Seashore,Autumn,10
+Guadalajara,Jalisco,Mexico,Sunny,Plain,Rainy,16
+Calgary,Alberta,Canada,Snow,Seashore,Rainy,20
+Victoria,British Columbia,Canada,Rainy,Hillstation,Rainy,21
+Merida,Yucatan,Mexico,Sunny,Desert,Rainy,15
